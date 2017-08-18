@@ -1,3 +1,3 @@
 # SOA-Lab
 
-![alt text](Project SoS.jpg "Description goes here")
+![alt text](Project-SoS.jpg "Project String of Services (SoS)")
