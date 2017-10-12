@@ -15,6 +15,11 @@
             <li class="repo">
     <h3><a href="{{ repo.homepage }}">{{ repo.name }}</a></h3>
     <p>{{ repo.description }}</p>
+ 
+    <aside class="details">
+        <span>Stars {{ repo.stargazers_count }}</span>
+        <span>Forks {{ repo.forks_count }}</span>
+    </aside>
 </li>
         {% endif %}
  
