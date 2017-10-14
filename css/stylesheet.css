@@ -11,3 +11,9 @@ span {
 body {
     background-color: lightblue;
 }
+.custom {
+	font-family: Courier;
+	color: red;
+	font-size:20px;
+}
+</st
