@@ -51,3 +51,18 @@ body {
         text-decoration: none;
     }
 }
+
+@font-face {
+font-family: "Harabara Bold";
+src: url("css/fonts/Harabara.eot");
+src: 
+url("css/fonts/Harabara.woff") format("woff"),
+url("css/fonts/Harabara.otf") format("opentype"),
+url("css/fonts/Harabara.svg#filename") format("svg");
+}
+
+h1 {
+font-family: 'Harabara Bold', Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
